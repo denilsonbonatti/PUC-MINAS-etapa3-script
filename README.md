@@ -28,4 +28,4 @@ Simular o atendimento de um chamado técnico com base em um fluxograma comum de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/atendimento-chamado-csharp.git
+   git clone https://github.com/denilsonbonatti/PUC-MINAS-etapa3-script.git
